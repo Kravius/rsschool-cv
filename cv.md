@@ -8,7 +8,9 @@ ___
 * Telegram: [Glib Shemenkov](https://t.me/Glib_Shemenkov)
 ___
 ## About Me
-_I am a beginner programmer. I have learned some material from UDEMY. I am also going through the materials on the website Code mu. At the same time, I solve programming problems on CodeWars  and replicate the projects of experienced programmers using VSC. My next step is learning React._
+_I am a beginner programmer. I have learned some material from UDEMY. I am also going through the materials on the website Code mu._
+
+_At the same time, I solve programming problems on CodeWars  and replicate the projects of experienced programmers using VSC. My next step is learning React._
 
 * My strengths:
     * Commitment
@@ -34,13 +36,18 @@ console.log(reverse(notString)) // 123456 this isn't string
 ## Education
 * __College of Education and the Administration. Mieszko I.__
     * internal audit 2017 - 2019
-* __Udemy__
-    1. [JS (in process..)](https://www.udemy.com/course/javascript-ru/)
-* __Code_mu__
-    1. [JS(in process..)](https://code.mu/ru/javascript/book/prime/)
-    2. [HTML&CSS(in process..)](https://code.mu/ru/markup/book/prime/)
-*   __Youtube__
-    1. [Git](https://www.youtube.com/watch?v=O00FTZDxD0o)
+* __Mykhailo Ostrohradskyi Kremenchuk National University__
+    * Electronics Engineer, master's degree 2008-2013
+___
+## Courses:
+* __JS__ (in process..)
+    1. [Udemy](https://www.udemy.com/course/javascript-ru/)
+    2. [Code_mu](https://code.mu/ru/javascript/book/prime/)
+* __HTML&CSS__ (in process..)
+    1. [Code_mu](https://code.mu/ru/markup/book/prime/)
+*   __Git__ (in process..)
+    1. [Youtube](https://www.youtube.com/watch?v=O00FTZDxD0o)
+* __Visual Studio Code__
 
 
 ___
