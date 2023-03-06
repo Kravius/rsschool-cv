@@ -1,14 +1,14 @@
+<a id="anchor"></a>
 #Glib Shemenkov
 ___
 ## My Contact Info:
-***
 * phone: +48 536-781-489
 * E-mail: shemenkovglib@gmail.com
 * GitHub: [Kravius](https://github.com/Kravius)
-* Tegram: [Glib Shemenkov](https://t.me/Glib_Shemenkov)
+* Telegram: [Glib Shemenkov](https://t.me/Glib_Shemenkov)
 ___
 ## About Me
-_I am a beginner programmer recently I learned from UDEMY. I am also going through the materials on the website Code mu. At the same time, I solve programming problems on CodeWars  and replicate the projects of experienced programmers using VSC. My next step is learning React._
+_I am a beginner programmer. I have learned some material from UDEMY. I am also going through the materials on the website Code mu. At the same time, I solve programming problems on CodeWars  and replicate the projects of experienced programmers using VSC. My next step is learning React._
 
 * My strengths:
     * Commitment
@@ -19,20 +19,29 @@ _I am a beginner programmer recently I learned from UDEMY. I am also going throu
 ___
 ## Code Examples
 ```
-let  myString = '123456';
+Напишите функцию, которая принимает на вход строку и возвращает ее в перевернутом виде.
+let  string = '123456';
 let notString = 123456;
 
-let reverse = (str) =>
+const reverse = (str) =>
     typeof str === 'string'
     ? str.split('').reverse().join('')
-    :`${str} this isn't string`  
+    : `${str} this isn't string`;
 
 console.log(reverse(myString)) // u will see 654321
 console.log(reverse(notString)) // 123456 this isn't string
 ```
 ## Education
-* College of Education and the Administration. Mieszko I.
+* __College of Education and the Administration. Mieszko I.__
     * internal audit 2017 - 2019
+* __Udemy__
+    1. [JS (in process..)](https://www.udemy.com/course/javascript-ru/)
+* __Code_mu__
+    1. [JS(in process..)](https://code.mu/ru/javascript/book/prime/)
+    2. [HTML&CSS(in process..)](https://code.mu/ru/markup/book/prime/)
+*   __Youtube__
+    1. [Git](https://www.youtube.com/watch?v=O00FTZDxD0o)
+
 
 ___
 ## Languages
@@ -40,3 +49,5 @@ ___
 *   __Russian__ - _native_
 * __Polish__ - _B1_
 * __English__ - _A2_
+
+[Up](#anchor)
