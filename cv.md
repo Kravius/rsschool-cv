@@ -56,5 +56,6 @@ ___
 *   __Russian__ - _native_
 * __Polish__ - _B1_
 * __English__ - _A2_
-
+___
+###### click =>[![click](logo.jpg)](https://rs.school)
 [Up](#anchor)
