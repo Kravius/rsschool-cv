@@ -1,7 +1,5 @@
 <a id="anchor"></a>
 
-# rsschool-cv 
-
 # Glib Shemenkov
 
 ___
@@ -17,12 +15,12 @@ ___
 ## About Me
 _I am a beginner programmer. I have learned some material from UDEMY. I am also going through the materials on the website Code mu. At the same time, I solve programming problems on CodeWars  and replicate the projects of experienced programmers using VSC. My next step is learning React._
 
-* My strengths:
+* ##### My strengths:
     * Commitment
-    * honesty
-    * responsibility
-    * fast learning,
-    * teamwork
+    * Honesty
+    * Responsibility
+    * Fast learning,
+    * Teamwork
 
 ___
 
@@ -43,7 +41,7 @@ console.log(reverse(notString)) // 123456 this isn't string
 ```
 ___
 
-## Education
+## Education:
 * __College of Education and the Administration. Mieszko I.__
     * internal audit 2017 - 2019
 * __Mykhailo Ostrohradskyi Kremenchuk National University__
@@ -63,7 +61,7 @@ ___
 
 ___
 
-## Languages
+## Languages:
 *   __Ukrainian__ - _native_
 *   __Russian__ - _native_
 * __Polish__ - _B1_
