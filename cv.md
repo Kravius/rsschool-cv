@@ -19,7 +19,7 @@ _I am a beginner programmer. I have learned some material from UDEMY. I am also 
     * Commitment
     * Honesty
     * Responsibility
-    * Fast learning,
+    * Fast learning
     * Teamwork
 
 ___
@@ -43,7 +43,7 @@ ___
 
 ## Education:
 * __College of Education and the Administration. Mieszko I.__
-    * internal audit 2017 - 2019
+    * Internal audit 2017 - 2019
 * __Mykhailo Ostrohradskyi Kremenchuk National University__
     * Electronics Engineer, master's degree 2008-2013
 
@@ -69,5 +69,5 @@ ___
 
 ___
 
-###### click =>[![click](logo.jpg)](https://rs.school)
+###### [![click](logo.jpg)](https://rs.school)
 [Up](#anchor)
